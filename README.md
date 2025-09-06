@@ -6,7 +6,10 @@ This project helps radiologists and researchers speed up tumor detection and ass
 ---
 
 ## 📸 Demo / Screenshot
-![App Screenshot](link-to-your-screenshot.png)
+
+![main.py](https://github.com/user-attachments/assets/6d14d1c5-71ea-4c74-a9ed-ac1a6135f913)
+![web-interface](https://github.com/user-attachments/assets/145dabbe-713c-4647-9d1e-ebfbfd1ddc0d)
+![output](https://github.com/user-attachments/assets/d5ece5e6-b7d8-4dc0-be83-1e134ca81219)
 
 ---
 
